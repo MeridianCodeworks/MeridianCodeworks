@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 24" width="900" height="24" role="presentation">
+  <defs>
+    <pattern id="ticks" width="30" height="24" patternUnits="userSpaceOnUse">
+      <path d="M0 8V16" stroke="#BB9A23" stroke-opacity="0.35"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#BB9A23" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#D2B64C" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#BB9A23" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="24" fill="url(#ticks)"/>
+  <rect y="11.5" width="900" height="1" fill="url(#fade)"/>
+  <circle cx="450" cy="12" r="4" fill="none" stroke="#BB9A23">
+    <animate attributeName="r" values="4;11" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.9;0" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="450" cy="12" r="2.5" fill="#D2B64C"/>
+  <circle cy="12" r="3" fill="#D2B64C">
+    <animate attributeName="cx" from="0" to="900" dur="7s" repeatCount="indefinite"/>
+  </circle>
+</svg>
