@@ -1,13 +1,13 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/MeridianCodeworks/MeridianCodeworks/main/assets/hero.svg" width="100%" alt="Meridian Codeworks. Hobby first. Ambition anyway." />
-<img src="https://raw.githubusercontent.com/MeridianCodeworks/MeridianCodeworks/main/assets/ticker.svg" width="100%" alt="Browser games, useful software, Android and web, hard problems, no deadlines" />
+<img src="https://raw.githubusercontent.com/MeridianCodeworks/MeridianCodeworks/main/assets/hero.svg" width="100%" alt="Meridian Codeworks" />
+<img src="https://raw.githubusercontent.com/MeridianCodeworks/MeridianCodeworks/main/assets/ticker.svg" width="100%" alt="Browser games, useful software, Android and web, hard problems" />
 </div>
 
 ### Zero longitude, zero pressure
 
 The prime meridian is just a line somebody agreed to start counting from. This is where the three of us agreed to start.
 
-Meridian Codeworks is a hobby, begun by three computer science students in their 4th semester at COMSATS University Islamabad. We build games and useful software together for the fun of it, and we plan to keep going long after the semester we began in.
+Meridian Codeworks is a small team of three computer science students in their 4th semester at COMSATS University Islamabad. We build games and useful software together alongside our studies, so the pace is part time but the effort is not. We plan to keep going long after the semester we began in.
 
 The destination is far away and we know it. We are going anyway.
 
@@ -53,10 +53,10 @@ Three equal members. Decisions are shared and so is the credit.
 <summary>Open the logbook</summary>
 
 ```
-LOG ENTRY 001  Account opened. README written. No deadlines set.
+LOG ENTRY 001  Account opened. README written.
 LOG ENTRY 002  Reserved for the first thing we ship.
 ```
 
 </details>
 
-<p align="center"><sub>MERIDIAN CODEWORKS  /  33.6844 N  73.0479 E  /  HOBBY</sub></p>
+<p align="center"><sub>MERIDIAN CODEWORKS  /  33.6844 N  73.0479 E  /  STUDENT RUN</sub></p>
